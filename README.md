@@ -1,6 +1,6 @@
-williamthomas.io
+brittanymuscarella.com
 ===================
-William Thomas website
+Brittany Muscarella's website
 
 Requirements
 ------------
