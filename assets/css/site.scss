@@ -106,7 +106,7 @@ a {
 
 .page-wrapper {
 	max-width: 1000px;
-	margin: auto
+	margin: auto;
 }
 
 .site-header {
@@ -117,14 +117,16 @@ a {
 }
 
 h1.site-heading {
-	color: #563d96;
 	float: left;
 	font-size: 1em;
 	text-transform: uppercase;
 	font-family: $display-font;
 	letter-spacing: 2px;
 	font-weight: 900;
-	margin: 0;
+	margin: 0; 
+	a, a:visited {
+		color: #563d96;
+	}
 	a:hover {
 		text-decoration: none;
 	}
