@@ -11,5 +11,5 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur blandit tempu
 - I am a **lemon**.
 - I am *not*.
 
-<div><img src="" alt="" class="full"/></div>
+<div><img src="/assets/images/lemon.jpg" alt="This is a picture of an artistic lemon." class="full"/></div>
 
